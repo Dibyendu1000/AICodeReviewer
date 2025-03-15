@@ -1,0 +1,5 @@
+backend/.env
+backend/node_modules
+review.md
+sampleCode.js
+backend/package-lock.json
