@@ -3,3 +3,4 @@ backend/node_modules
 review.md
 sampleCode.js
 backend/package-lock.json
+frontend/package-lock.json
